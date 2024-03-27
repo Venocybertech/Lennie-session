@@ -1,0 +1,22 @@
+{
+    "name": "LENNIE W session",
+    "description": "LENNIE-W WA bot, Created by Venocyber King jux and Lennie to simplify your digital lives",
+    "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
+    "repository": "https://github.com/Venocybertech/Lennie-Session",
+    "keywords": ["LennieW"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
