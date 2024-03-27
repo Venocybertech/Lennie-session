@@ -72,11 +72,11 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
-║❒ *Owner:* _https://wa.me/message/MSSH2UWWOQBDL1_
-║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
+║❒ *Owner:* _https://wa.me/qr/CQ5INADHTCXEM1_
+║❒ *Repo:* _https://github.com/lenodewere/Lennie-W_
+║❒ *WaGroup:* _https://chat.whatsapp.com/BH53XC67o4K7pH5pFkBtRy_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaYiIj0BA1f37lBAZQ2O_
+║❒ *Plugins:* _https://github.com/lenodewere/Lennie-W-plugins_
 ╚══════════════════════╝ 
 _____________________________________
 	
