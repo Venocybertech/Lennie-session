@@ -71,7 +71,7 @@ ______________________________________
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
+║❒ *Ytube:* _https://www.youtube.com/@lenniestic_arts_
 ║❒ *Owner:* _https://wa.me/qr/CQ5INADHTCXEM1_
 ║❒ *Repo:* _https://github.com/lenodewere/Lennie-W_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/BH53XC67o4K7pH5pFkBtRy_
